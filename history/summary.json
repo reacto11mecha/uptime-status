@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 933,
-    "timeDay": 933,
-    "timeWeek": 933,
-    "timeMonth": 933,
-    "timeYear": 933,
+    "time": 907,
+    "timeDay": 907,
+    "timeWeek": 907,
+    "timeMonth": 907,
+    "timeYear": 907,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 928,
-    "timeDay": 928,
-    "timeWeek": 928,
-    "timeMonth": 928,
-    "timeYear": 928,
+    "time": 863,
+    "timeDay": 863,
+    "timeWeek": 863,
+    "timeMonth": 863,
+    "timeYear": 863,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 140,
+    "timeDay": 140,
+    "timeWeek": 140,
+    "timeMonth": 140,
+    "timeYear": 140,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1114,
-    "timeDay": 1114,
-    "timeWeek": 1114,
-    "timeMonth": 1114,
-    "timeYear": 1114,
+    "time": 1061,
+    "timeDay": 1061,
+    "timeWeek": 1061,
+    "timeMonth": 1061,
+    "timeYear": 1061,
     "dailyMinutesDown": {}
   },
   {
@@ -76,19 +76,19 @@
     "url": "https://jadwal.rmecha.my.id",
     "icon": "https://favicons.githubusercontent.com/jadwal.rmecha.my.id",
     "slug": "web-jadwal-belajar",
-    "status": "up",
-    "uptime": "89.14%",
-    "uptimeDay": "89.14%",
-    "uptimeWeek": "89.14%",
-    "uptimeMonth": "89.14%",
-    "uptimeYear": "89.14%",
-    "time": 223,
-    "timeDay": 223,
-    "timeWeek": 223,
-    "timeMonth": 223,
-    "timeYear": 223,
+    "status": "down",
+    "uptime": "87.19%",
+    "uptimeDay": "87.19%",
+    "uptimeWeek": "87.19%",
+    "uptimeMonth": "87.19%",
+    "uptimeYear": "87.19%",
+    "time": 209,
+    "timeDay": 209,
+    "timeWeek": 209,
+    "timeMonth": 209,
+    "timeYear": 209,
     "dailyMinutesDown": {
-      "2022-02-02": 68
+      "2022-02-02": 85
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://nyerati.rmecha.my.id",
     "icon": "https://favicons.githubusercontent.com/nyerati.rmecha.my.id",
     "slug": "nyerati-website",
-    "status": "up",
-    "uptime": "82.28%",
-    "uptimeDay": "82.28%",
-    "uptimeWeek": "82.28%",
-    "uptimeMonth": "82.28%",
-    "uptimeYear": "82.28%",
-    "time": 231,
-    "timeDay": 231,
-    "timeWeek": 231,
-    "timeMonth": 231,
-    "timeYear": 231,
+    "status": "down",
+    "uptime": "79.92%",
+    "uptimeDay": "79.92%",
+    "uptimeWeek": "79.92%",
+    "uptimeMonth": "79.92%",
+    "uptimeYear": "79.92%",
+    "time": 221,
+    "timeDay": 221,
+    "timeWeek": 221,
+    "timeMonth": 221,
+    "timeYear": 221,
     "dailyMinutesDown": {
-      "2022-02-02": 111
+      "2022-02-02": 134
     }
   },
   {
@@ -128,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-02": 624
+      "2022-02-02": 663
     }
   }
 ]
