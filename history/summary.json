@@ -76,37 +76,39 @@
     "url": "https://jadwal.rmecha.my.id",
     "icon": "https://favicons.githubusercontent.com/jadwal.rmecha.my.id",
     "slug": "web-jadwal-belajar",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
     "time": 357,
     "timeDay": 357,
     "timeWeek": 357,
     "timeMonth": 357,
     "timeYear": 357,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   },
   {
     "name": "Nyerati Website",
     "url": "https://nyerati.rmecha.my.id",
     "icon": "https://favicons.githubusercontent.com/nyerati.rmecha.my.id",
     "slug": "nyerati-website",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
-    "time": 363,
-    "timeDay": 363,
-    "timeWeek": 363,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "status": "up",
+    "uptime": "57.86%",
+    "uptimeDay": "57.86%",
+    "uptimeWeek": "57.86%",
+    "uptimeMonth": "57.86%",
+    "uptimeYear": "57.86%",
+    "time": 390,
+    "timeDay": 390,
+    "timeWeek": 390,
+    "timeMonth": 390,
+    "timeYear": 390,
     "dailyMinutesDown": {
-      "2022-02-02": 0
+      "2022-02-02": 17
     }
   },
   {
@@ -115,18 +117,18 @@
     "icon": "https://favicons.githubusercontent.com/sman12bekasi.e-belajar.id",
     "slug": "e-belajar-sman-12-bekasi",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-02": 23
+      "2022-02-02": 40
     }
   }
 ]
