@@ -9,13 +9,13 @@ sites:
   - name: Sekilas 13
     url: https://sekilas13.vercel.app
   - name: My Personal Site
-    url: https://rmecha.my.id/
+    url: https://rmecha.my.id
   - name: Web Jadwal Belajar
     url: https://jadwal.rmecha.my.id
   - name: Nyerati Website
     url: https://nyerati.rmecha.my.id
   - name: E-Belajar SMAN 12 Bekasi
-    url: https://sman12bekasi.e-belajar.id/
+    url: https://sman12bekasi.e-belajar.id
 
 status-website:
   cname: status.rmecha.my.id
