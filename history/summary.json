@@ -94,19 +94,19 @@
     "url": "https://nyerati.rmecha.my.id",
     "icon": "https://favicons.githubusercontent.com/nyerati.rmecha.my.id",
     "slug": "nyerati-website",
-    "status": "up",
-    "uptime": "72.07%",
-    "uptimeDay": "72.07%",
-    "uptimeWeek": "72.07%",
-    "uptimeMonth": "72.07%",
-    "uptimeYear": "72.07%",
+    "status": "down",
+    "uptime": "86.34%",
+    "uptimeDay": "86.34%",
+    "uptimeWeek": "86.34%",
+    "uptimeMonth": "86.34%",
+    "uptimeYear": "86.34%",
     "time": 334,
     "timeDay": 334,
     "timeWeek": 334,
     "timeMonth": 334,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2022-02-02": 30
+      "2022-02-02": 17
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://favicons.githubusercontent.com/sman12bekasi.e-belajar.id",
     "slug": "e-belajar-sman-12-bekasi",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-02": 107
+      "2022-02-02": 126
     }
   }
 ]
