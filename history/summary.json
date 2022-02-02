@@ -76,19 +76,19 @@
     "url": "https://jadwal.rmecha.my.id",
     "icon": "https://favicons.githubusercontent.com/jadwal.rmecha.my.id",
     "slug": "web-jadwal-belajar",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
-    "time": 469,
-    "timeDay": 469,
-    "timeWeek": 469,
-    "timeMonth": 469,
-    "timeYear": 469,
+    "status": "up",
+    "uptime": "95.83%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "95.83%",
+    "uptimeMonth": "95.83%",
+    "uptimeYear": "95.83%",
+    "time": 450,
+    "timeDay": 450,
+    "timeWeek": 450,
+    "timeMonth": 450,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2022-02-02": 1
+      "2022-02-02": 6
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://nyerati.rmecha.my.id",
     "icon": "https://favicons.githubusercontent.com/nyerati.rmecha.my.id",
     "slug": "nyerati-website",
-    "status": "down",
-    "uptime": "87.20%",
-    "uptimeDay": "87.20%",
-    "uptimeWeek": "87.20%",
-    "uptimeMonth": "87.20%",
-    "uptimeYear": "87.20%",
-    "time": 275,
-    "timeDay": 275,
-    "timeWeek": 275,
-    "timeMonth": 275,
-    "timeYear": 275,
+    "status": "up",
+    "uptime": "83.72%",
+    "uptimeDay": "83.72%",
+    "uptimeWeek": "83.72%",
+    "uptimeMonth": "83.72%",
+    "uptimeYear": "83.72%",
+    "time": 311,
+    "timeDay": 311,
+    "timeWeek": 311,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {
-      "2022-02-02": 17
+      "2022-02-02": 23
     }
   },
   {
@@ -117,18 +117,18 @@
     "icon": "https://favicons.githubusercontent.com/sman12bekasi.e-belajar.id",
     "slug": "e-belajar-sman-12-bekasi",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-02": 135
+      "2022-02-02": 141
     }
   }
 ]
