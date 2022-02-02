@@ -94,19 +94,19 @@
     "url": "https://nyerati.rmecha.my.id",
     "icon": "https://favicons.githubusercontent.com/nyerati.rmecha.my.id",
     "slug": "nyerati-website",
-    "status": "down",
-    "uptime": "81.65%",
-    "uptimeDay": "81.65%",
-    "uptimeWeek": "81.65%",
-    "uptimeMonth": "81.65%",
-    "uptimeYear": "81.65%",
-    "time": 400,
-    "timeDay": 400,
-    "timeWeek": 400,
-    "timeMonth": 400,
-    "timeYear": 400,
+    "status": "up",
+    "uptime": "72.07%",
+    "uptimeDay": "72.07%",
+    "uptimeWeek": "72.07%",
+    "uptimeMonth": "72.07%",
+    "uptimeYear": "72.07%",
+    "time": 334,
+    "timeDay": 334,
+    "timeWeek": 334,
+    "timeMonth": 334,
+    "timeYear": 334,
     "dailyMinutesDown": {
-      "2022-02-02": 17
+      "2022-02-02": 30
     }
   },
   {
@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-02": 94
+      "2022-02-02": 107
     }
   }
 ]
