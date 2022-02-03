@@ -10,10 +10,6 @@ sites:
     url: https://sekilas13.vercel.app
   - name: My Personal Site
     url: https://rmecha.my.id
-  - name: Web Jadwal Belajar
-    url: https://jadwal.rmecha.my.id
-  - name: Nyerati Website
-    url: https://nyerati.rmecha.my.id
   - name: E-Belajar SMAN 12 Bekasi
     url: https://sman12bekasi.e-belajar.id
 
@@ -23,7 +19,7 @@ status-website:
   name: Pantau Terus
   theme: night
   introTitle: "Website pemantau web penting, powered by **Upptime**"
-  introMessage: Website ini memantau web yang sehari-hari digunakan atau web yang penting bagi saya. Data yang dihasilkan merupakan data yang diambil secara **real-time** yang hanya menggunakan Github Action sebagai pengambil datanya. Ditenagai oleh [Upptime](https://github.com/upptime/upptime)
+  introMessage: Website ini memantau web yang sehari-hari digunakan atau web yang penting bagi saya. Data yang dihasilkan merupakan data yang diambil secara **real-time** yang hanya menggunakan Github Action sebagai pengambil datanya. Ditenagai oleh [Upptime](https://github.com/upptime/upptime), pengecek status website menggunakan github action.
   navbar:
     - title: Status
       href: /
