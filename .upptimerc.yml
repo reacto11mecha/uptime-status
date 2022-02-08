@@ -10,8 +10,6 @@ sites:
     url: https://sekilas13.vercel.app
   - name: My Personal Site
     url: https://rmecha.my.id
-  - name: E-Belajar SMAN 12 Bekasi
-    url: https://sman12bekasi.e-belajar.id
 
 status-website:
   cname: status.rmecha.my.id
