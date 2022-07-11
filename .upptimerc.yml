@@ -10,6 +10,8 @@ sites:
     url: https://kartuujian.sman12-bekasi.sch.id/
   - name: Sekilas 13
     url: https://sekilas13.vercel.app
+  - name: WUNO Bot Documentation Site
+    url: https://wuno.rmecha.my.id/
   - name: My Personal Site
     url: https://rmecha.my.id
 
