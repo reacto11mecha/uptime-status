@@ -12,6 +12,8 @@ sites:
     url: https://sekilas13.vercel.app
   - name: WUNO Bot Documentation Site
     url: https://wuno.rmecha.my.id/
+  - name: Web Jadwal Pelajaran
+    url: https://jadwal.rmecha.my.id/
   - name: My Personal Site
     url: https://rmecha.my.id
 
