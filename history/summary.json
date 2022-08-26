@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/bellshade.org",
     "slug": "bellshade-website",
     "status": "down",
-    "uptime": "41.12%",
+    "uptime": "41.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.12%",
+    "uptimeYear": "41.00%",
     "time": 869,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2022-08-26": 32,
+      "2022-08-26": 920,
       "2022-08-25": 1440,
       "2022-08-24": 1440,
       "2022-08-23": 1440,
@@ -146,18 +146,18 @@
     "icon": "https://favicons.githubusercontent.com/api.bellshade.org",
     "slug": "bellshade-api",
     "status": "down",
-    "uptime": "36.58%",
+    "uptime": "36.47%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "36.58%",
+    "uptimeYear": "36.47%",
     "time": 842,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 842,
     "dailyMinutesDown": {
-      "2022-08-26": 32,
+      "2022-08-26": 920,
       "2022-08-25": 1440,
       "2022-08-24": 1440,
       "2022-08-23": 1440,
@@ -319,10 +319,10 @@
     "url": "https://sekilas13.vercel.app",
     "icon": "https://favicons.githubusercontent.com/sekilas13.vercel.app",
     "slug": "sekilas-13",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
@@ -330,17 +330,19 @@
     "timeWeek": 143,
     "timeMonth": 170,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-26": 1
+    }
   },
   {
     "name": "WUNO Bot Documentation Site",
     "url": "https://wuno.rmecha.my.id/",
     "icon": "https://favicons.githubusercontent.com/wuno.rmecha.my.id",
     "slug": "wuno-bot-documentation-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 452,
@@ -348,16 +350,18 @@
     "timeWeek": 425,
     "timeMonth": 433,
     "timeYear": 452,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-26": 1
+    }
   },
   {
     "name": "Web Jadwal Pelajaran",
     "url": "https://jadwal.rmecha.my.id/",
     "icon": "https://favicons.githubusercontent.com/jadwal.rmecha.my.id",
     "slug": "web-jadwal-pelajaran",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -366,7 +370,9 @@
     "timeWeek": 457,
     "timeMonth": 393,
     "timeYear": 393,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-26": 0
+    }
   },
   {
     "name": "My Personal Site",
