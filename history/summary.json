@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "47.31%",
+    "uptimeYear": "47.32%",
     "time": 857,
     "timeDay": 708,
     "timeWeek": 1336,
@@ -214,8 +214,7 @@
       "2022-05-15": 1440,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
-      "2022-05-12": 1440,
-      "2022-05-11": 1440
+      "2022-05-12": 1440
     }
   },
   {
@@ -224,11 +223,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.bellshade.org.ico",
     "slug": "bellshade-api",
     "status": "up",
-    "uptime": "53.52%",
+    "uptime": "53.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "47.32%",
+    "uptimeYear": "47.33%",
     "time": 600,
     "timeDay": 370,
     "timeWeek": 319,
@@ -432,8 +431,7 @@
       "2022-05-15": 1440,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
-      "2022-05-12": 1440,
-      "2022-05-11": 1440
+      "2022-05-12": 1440
     }
   },
   {
@@ -442,18 +440,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kartuujian.sman12-bekasi.sch.id.ico",
     "slug": "web-kartu-ujian",
     "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "90.42%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.81%",
+    "uptimeDay": "85.45%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.81%",
     "time": 1559,
     "timeDay": 3354,
     "timeWeek": 1862,
     "timeMonth": 1550,
     "timeYear": 1559,
     "dailyMinutesDown": {
-      "2023-05-10": 138,
+      "2023-05-11": 25,
+      "2023-05-10": 185,
       "2023-02-27": 20,
       "2023-01-31": 17,
       "2023-01-25": 15,
@@ -484,7 +483,7 @@
     "timeDay": 117,
     "timeWeek": 112,
     "timeMonth": 145,
-    "timeYear": 165,
+    "timeYear": 166,
     "dailyMinutesDown": {
       "2022-08-26": 20
     }
