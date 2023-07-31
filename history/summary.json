@@ -8,12 +8,12 @@
     "uptime": "62.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "69.30%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "69.31%",
     "time": 1110,
     "timeDay": 1259,
     "timeWeek": 1758,
-    "timeMonth": 1364,
+    "timeMonth": 1348,
     "timeYear": 1140,
     "dailyMinutesDown": {
       "2023-07-28": 19,
@@ -164,8 +164,7 @@
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
-      "2022-08-01": 1440,
-      "2022-07-31": 1440
+      "2022-08-01": 1440
     }
   },
   {
@@ -174,18 +173,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.bellshade.org.ico",
     "slug": "bellshade-api",
     "status": "up",
-    "uptime": "60.30%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.07%",
-    "uptimeYear": "69.29%",
+    "uptime": "60.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "69.30%",
     "time": 757,
     "timeDay": 814,
     "timeWeek": 927,
-    "timeMonth": 876,
+    "timeMonth": 879,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2023-07-30": 7,
       "2023-07-29": 23,
       "2023-07-28": 19,
       "2023-07-22": 21,
@@ -330,8 +328,7 @@
       "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
-      "2022-08-01": 1440,
-      "2022-07-31": 1440
+      "2022-08-01": 1440
     }
   },
   {
@@ -348,7 +345,7 @@
     "time": 1578,
     "timeDay": 1779,
     "timeWeek": 1531,
-    "timeMonth": 1725,
+    "timeMonth": 1710,
     "timeYear": 1601,
     "dailyMinutesDown": {
       "2023-07-23": 58,
@@ -384,7 +381,7 @@
     "time": 151,
     "timeDay": 30,
     "timeWeek": 83,
-    "timeMonth": 99,
+    "timeMonth": 97,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2022-08-26": 20
@@ -404,7 +401,7 @@
     "time": 500,
     "timeDay": 443,
     "timeWeek": 494,
-    "timeMonth": 704,
+    "timeMonth": 698,
     "timeYear": 501,
     "dailyMinutesDown": {
       "2023-06-25": 20,
@@ -426,7 +423,7 @@
     "time": 424,
     "timeDay": 446,
     "timeWeek": 429,
-    "timeMonth": 435,
+    "timeMonth": 433,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2022-08-26": 19
@@ -446,7 +443,7 @@
     "time": 1176,
     "timeDay": 1589,
     "timeWeek": 1463,
-    "timeMonth": 1450,
+    "timeMonth": 1439,
     "timeYear": 1248,
     "dailyMinutesDown": {
       "2022-11-08": 19
