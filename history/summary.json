@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bellshade.org.ico",
     "slug": "bellshade-website",
     "status": "up",
-    "uptime": "64.27%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "89.91%",
-    "uptimeYear": "80.22%",
+    "uptime": "64.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "89.93%",
+    "uptimeYear": "80.24%",
     "time": 1173,
     "timeDay": 1203,
     "timeWeek": 1280,
     "timeMonth": 1267,
     "timeYear": 1181,
     "dailyMinutesDown": {
-      "2023-09-11": 9,
       "2023-09-08": 22,
       "2023-09-04": 864,
       "2023-09-03": 1440,
@@ -134,8 +133,7 @@
       "2022-09-16": 1440,
       "2022-09-15": 1440,
       "2022-09-14": 1440,
-      "2022-09-13": 1440,
-      "2022-09-12": 1440
+      "2022-09-13": 1440
     }
   },
   {
@@ -145,17 +143,17 @@
     "slug": "bellshade-api",
     "status": "up",
     "uptime": "62.69%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "89.94%",
-    "uptimeYear": "80.22%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "89.96%",
+    "uptimeYear": "80.24%",
     "time": 780,
     "timeDay": 1644,
     "timeWeek": 1081,
     "timeMonth": 901,
     "timeYear": 780,
     "dailyMinutesDown": {
-      "2023-09-11": 25,
+      "2023-09-11": 17,
       "2023-09-04": 864,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
@@ -269,8 +267,7 @@
       "2022-09-16": 1440,
       "2022-09-15": 1440,
       "2022-09-14": 1440,
-      "2022-09-13": 1440,
-      "2022-09-12": 1440
+      "2022-09-13": 1440
     }
   },
   {
@@ -282,7 +279,7 @@
     "uptime": "97.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.32%",
+    "uptimeMonth": "92.48%",
     "uptimeYear": "97.28%",
     "time": 1562,
     "timeDay": 1471,
@@ -333,7 +330,7 @@
     "timeDay": 56,
     "timeWeek": 86,
     "timeMonth": 135,
-    "timeYear": 156,
+    "timeYear": 147,
     "dailyMinutesDown": {}
   },
   {
