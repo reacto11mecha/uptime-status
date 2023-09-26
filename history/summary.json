@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bellshade.org.ico",
     "slug": "bellshade-website",
     "status": "up",
-    "uptime": "65.09%",
+    "uptime": "65.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "89.90%",
@@ -123,8 +123,7 @@
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
-      "2022-09-27": 1440,
-      "2022-09-26": 1440
+      "2022-09-27": 1440
     }
   },
   {
@@ -137,7 +136,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "89.92%",
-    "uptimeYear": "84.04%",
+    "uptimeYear": "84.05%",
     "time": 806,
     "timeDay": 1544,
     "timeWeek": 1017,
@@ -249,8 +248,7 @@
       "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
-      "2022-09-27": 1440,
-      "2022-09-26": 1440
+      "2022-09-27": 1440
     }
   },
   {
@@ -260,9 +258,9 @@
     "slug": "web-kartu-ujian",
     "status": "up",
     "uptime": "97.89%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.28%",
     "time": 1565,
     "timeDay": 1465,
@@ -270,7 +268,6 @@
     "timeMonth": 1505,
     "timeYear": 1594,
     "dailyMinutesDown": {
-      "2023-09-25": 6,
       "2023-08-21": 123,
       "2023-08-20": 614,
       "2023-08-13": 1138,
