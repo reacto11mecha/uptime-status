@@ -6,17 +6,16 @@
     "slug": "bellshade-website",
     "status": "up",
     "uptime": "65.27%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "89.88%",
-    "uptimeYear": "84.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "89.90%",
+    "uptimeYear": "84.88%",
     "time": 1200,
     "timeDay": 1333,
     "timeWeek": 1418,
     "timeMonth": 1359,
     "timeYear": 1206,
     "dailyMinutesDown": {
-      "2023-09-28": 7,
       "2023-09-23": 48,
       "2023-09-15": 15,
       "2023-09-14": 25,
@@ -121,8 +120,7 @@
       "2022-10-03": 1440,
       "2022-10-02": 1440,
       "2022-10-01": 1440,
-      "2022-09-30": 1440,
-      "2022-09-29": 1440
+      "2022-09-30": 1440
     }
   },
   {
@@ -132,17 +130,16 @@
     "slug": "bellshade-api",
     "status": "up",
     "uptime": "63.72%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "89.90%",
-    "uptimeYear": "84.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "89.92%",
+    "uptimeYear": "84.87%",
     "time": 805,
     "timeDay": 605,
     "timeWeek": 1009,
     "timeMonth": 1021,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2023-09-28": 6,
       "2023-09-19": 17,
       "2023-09-18": 15,
       "2023-09-14": 92,
@@ -245,8 +242,7 @@
       "2022-10-03": 1440,
       "2022-10-02": 1440,
       "2022-10-01": 1440,
-      "2022-09-30": 1440,
-      "2022-09-29": 1440
+      "2022-09-30": 1440
     }
   },
   {
