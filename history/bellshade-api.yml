@@ -1,7 +1,7 @@
 url: https://api.bellshade.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-13T23:35:46.358Z
+status: up
+code: 200
+responseTime: 555
+lastUpdated: 2023-11-13T23:41:30.419Z
 startTime: 2022-02-02T12:34:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
