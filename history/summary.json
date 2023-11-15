@@ -131,9 +131,9 @@
     "url": "https://api.bellshade.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.bellshade.org.ico",
     "slug": "bellshade-api",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "98.80%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "98.78%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "98.68%",
     "uptimeYear": "98.78%",
@@ -207,8 +207,7 @@
       "2023-06-08": 36,
       "2023-06-06": 18,
       "2023-06-05": 19,
-      "2023-05-27": 16,
-      "2023-05-21": 16
+      "2023-05-27": 16
     }
   },
   {
