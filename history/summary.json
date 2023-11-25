@@ -309,19 +309,19 @@
     "url": "https://rmecha.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/rmecha.my.id.ico",
     "slug": "my-personal-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1266,
-    "timeDay": 721,
-    "timeWeek": 631,
-    "timeMonth": 1091,
-    "timeYear": 1292,
+    "timeDay": 761,
+    "timeWeek": 652,
+    "timeMonth": 1082,
+    "timeYear": 1291,
     "dailyMinutesDown": {
-      "2023-11-25": 0,
+      "2023-11-25": 6,
       "2023-08-10": 17
     }
   }
