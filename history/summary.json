@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bellshade.org.ico",
     "slug": "bellshade-website",
     "status": "up",
-    "uptime": "68.59%",
+    "uptime": "68.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "91.55%",
+    "uptimeYear": "91.68%",
     "time": 1170,
-    "timeDay": 998,
-    "timeWeek": 790,
-    "timeMonth": 784,
-    "timeYear": 1212,
+    "timeDay": 1279,
+    "timeWeek": 839,
+    "timeMonth": 796,
+    "timeYear": 1213,
     "dailyMinutesDown": {
       "2023-12-01": 28,
       "2023-11-27": 39,
@@ -110,8 +110,7 @@
       "2022-12-07": 1440,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   },
   {
@@ -126,10 +125,10 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "98.77%",
     "time": 820,
-    "timeDay": 776,
-    "timeWeek": 703,
-    "timeMonth": 547,
-    "timeYear": 845,
+    "timeDay": 713,
+    "timeWeek": 696,
+    "timeMonth": 549,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2023-12-02": 39,
       "2023-11-27": 19,
@@ -210,10 +209,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.30%",
-    "time": 1570,
-    "timeDay": 1514,
-    "timeWeek": 1493,
-    "timeMonth": 1597,
+    "time": 1571,
+    "timeDay": 1395,
+    "timeWeek": 1494,
+    "timeMonth": 1595,
     "timeYear": 1594,
     "dailyMinutesDown": {
       "2023-09-26": 64,
@@ -255,10 +254,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
-    "timeDay": 48,
+    "timeDay": 49,
     "timeWeek": 70,
-    "timeMonth": 90,
-    "timeYear": 121,
+    "timeMonth": 87,
+    "timeYear": 120,
     "dailyMinutesDown": {}
   },
   {
@@ -273,9 +272,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 501,
-    "timeDay": 282,
-    "timeWeek": 414,
-    "timeMonth": 400,
+    "timeDay": 240,
+    "timeWeek": 381,
+    "timeMonth": 396,
     "timeYear": 485,
     "dailyMinutesDown": {
       "2023-06-25": 20
@@ -293,9 +292,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 434,
-    "timeDay": 494,
-    "timeWeek": 318,
-    "timeMonth": 295,
+    "timeDay": 339,
+    "timeWeek": 344,
+    "timeMonth": 300,
     "timeYear": 430,
     "dailyMinutesDown": {}
   },
@@ -311,10 +310,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1265,
-    "timeDay": 912,
-    "timeWeek": 841,
-    "timeMonth": 798,
-    "timeYear": 1282,
+    "timeDay": 654,
+    "timeWeek": 783,
+    "timeMonth": 794,
+    "timeYear": 1280,
     "dailyMinutesDown": {
       "2023-08-10": 17
     }
