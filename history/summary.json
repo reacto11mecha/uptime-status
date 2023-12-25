@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/bellshade.org.ico",
     "slug": "bellshade-website",
     "status": "up",
-    "uptime": "69.58%",
+    "uptime": "69.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.03%",
     "uptimeMonth": "98.91%",
-    "uptimeYear": "97.73%",
+    "uptimeYear": "97.80%",
     "time": 1202,
     "timeDay": 3243,
-    "timeWeek": 2400,
+    "timeWeek": 2461,
     "timeMonth": 1358,
     "timeYear": 1242,
     "dailyMinutesDown": {
@@ -108,9 +108,9 @@
     "slug": "bellshade-api",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "98.12%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.23%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "98.77%",
     "time": 832,
     "timeDay": 1384,
@@ -118,7 +118,6 @@
     "timeMonth": 901,
     "timeYear": 855,
     "dailyMinutesDown": {
-      "2023-12-25": 12,
       "2023-12-24": 55,
       "2023-12-23": 97,
       "2023-12-22": 25,
@@ -187,7 +186,7 @@
       "2023-06-30": 160,
       "2023-06-29": 27,
       "2023-06-28": 71,
-      "2023-06-27": 34
+      "2023-06-27": 50
     }
   },
   {
@@ -195,9 +194,9 @@
     "url": "https://kartuujian.sman12-bekasi.sch.id/",
     "icon": "https://icons.duckduckgo.com/ip3/kartuujian.sman12-bekasi.sch.id.ico",
     "slug": "web-kartu-ujian",
-    "status": "up",
+    "status": "down",
     "uptime": "98.12%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "94.85%",
     "uptimeMonth": "98.19%",
     "uptimeYear": "97.15%",
@@ -207,6 +206,7 @@
     "timeMonth": 1874,
     "timeYear": 1640,
     "dailyMinutesDown": {
+      "2023-12-25": 0,
       "2023-12-24": 55,
       "2023-12-23": 125,
       "2023-12-22": 275,
