@@ -4,18 +4,19 @@
     "url": "https://bellshade.org",
     "icon": "https://icons.duckduckgo.com/ip3/bellshade.org.ico",
     "slug": "bellshade-website",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.54%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "98.72%",
     "time": 1212,
     "timeDay": 927,
     "timeWeek": 962,
-    "timeMonth": 1024,
+    "timeMonth": 1000,
     "timeYear": 1240,
     "dailyMinutesDown": {
+      "2024-01-30": 0,
       "2024-01-26": 24,
       "2024-01-25": 20,
       "2024-01-22": 22,
@@ -97,8 +98,7 @@
       "2023-05-22": 18,
       "2023-05-19": 22,
       "2023-05-14": 16,
-      "2023-05-13": 16,
-      "2023-04-03": 19
+      "2023-05-13": 16
     }
   },
   {
@@ -108,9 +108,9 @@
     "slug": "bellshade-api",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "98.76%",
     "time": 834,
     "timeDay": 331,
@@ -118,7 +118,6 @@
     "timeMonth": 767,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2024-01-30": 7,
       "2024-01-26": 16,
       "2024-01-25": 20,
       "2024-01-20": 29,
@@ -193,7 +192,8 @@
       "2023-07-05": 17,
       "2023-07-03": 50,
       "2023-07-02": 67,
-      "2023-07-01": 82
+      "2023-07-01": 82,
+      "2023-06-30": 17
     }
   },
   {
@@ -202,18 +202,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kartuujian.sman12-bekasi.sch.id.ico",
     "slug": "web-kartu-ujian",
     "status": "down",
-    "uptime": "94.83%",
+    "uptime": "94.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.81%",
-    "uptimeYear": "91.53%",
+    "uptimeMonth": "32.68%",
+    "uptimeYear": "91.52%",
     "time": 1645,
     "timeDay": 0,
     "timeWeek": 1446,
     "timeMonth": 1872,
     "timeYear": 1683,
     "dailyMinutesDown": {
-      "2024-01-30": 456,
+      "2024-01-30": 511,
       "2024-01-29": 1440,
       "2024-01-28": 1440,
       "2024-01-27": 1440,
