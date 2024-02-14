@@ -4,18 +4,19 @@
     "url": "https://bellshade.org",
     "icon": "https://icons.duckduckgo.com/ip3/bellshade.org.ico",
     "slug": "bellshade-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "98.71%",
+    "uptimeYear": "98.72%",
     "time": 1219,
     "timeDay": 1414,
     "timeWeek": 1596,
     "timeMonth": 1212,
     "timeYear": 1255,
     "dailyMinutesDown": {
+      "2024-02-14": 0,
       "2024-02-12": 18,
       "2024-02-04": 33,
       "2024-02-03": 15,
@@ -97,8 +98,7 @@
       "2023-06-08": 47,
       "2023-06-06": 19,
       "2023-06-05": 19,
-      "2023-05-27": 16,
-      "2023-05-22": 18
+      "2023-05-27": 16
     }
   },
   {
@@ -108,9 +108,9 @@
     "slug": "bellshade-api",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "99.21%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "98.76%",
     "time": 830,
     "timeDay": 896,
@@ -118,7 +118,6 @@
     "timeMonth": 852,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2024-02-14": 6,
       "2024-02-13": 18,
       "2024-02-12": 17,
       "2024-02-04": 66,
@@ -196,7 +195,8 @@
       "2023-07-10": 50,
       "2023-07-06": 16,
       "2023-07-05": 17,
-      "2023-07-03": 50
+      "2023-07-03": 50,
+      "2023-07-02": 22
     }
   },
   {
@@ -205,18 +205,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kartuujian.sman12-bekasi.sch.id.ico",
     "slug": "web-kartu-ujian",
     "status": "down",
-    "uptime": "92.53%",
+    "uptime": "92.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.40%",
+    "uptimeYear": "87.39%",
     "time": 1643,
     "timeDay": 1098,
     "timeWeek": 1369,
     "timeMonth": 1351,
     "timeYear": 1682,
     "dailyMinutesDown": {
-      "2024-02-14": 596,
+      "2024-02-14": 640,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
