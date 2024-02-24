@@ -105,10 +105,10 @@
     "url": "https://api.bellshade.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.bellshade.org.ico",
     "slug": "bellshade-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "98.86%",
-    "uptimeWeek": "99.59%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "98.76%",
     "time": 832,
@@ -117,7 +117,7 @@
     "timeMonth": 872,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2024-02-24": 16,
+      "2024-02-24": 17,
       "2024-02-21": 25,
       "2024-02-16": 18,
       "2024-02-13": 18,
@@ -195,8 +195,7 @@
       "2023-07-17": 17,
       "2023-07-16": 20,
       "2023-07-10": 50,
-      "2023-07-06": 16,
-      "2023-07-05": 17
+      "2023-07-06": 16
     }
   },
   {
@@ -209,14 +208,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.74%",
+    "uptimeYear": "84.73%",
     "time": 1640,
     "timeDay": 1470,
     "timeWeek": 1344,
     "timeMonth": 1370,
     "timeYear": 1682,
     "dailyMinutesDown": {
-      "2024-02-24": 197,
+      "2024-02-24": 234,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
