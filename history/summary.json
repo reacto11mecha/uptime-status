@@ -105,9 +105,9 @@
     "url": "https://api.bellshade.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.bellshade.org.ico",
     "slug": "bellshade-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "98.87%",
+    "uptimeDay": "98.86%",
     "uptimeWeek": "99.21%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "98.76%",
@@ -195,7 +195,7 @@
       "2023-07-21": 18,
       "2023-07-17": 17,
       "2023-07-16": 20,
-      "2023-07-10": 50
+      "2023-07-10": 35
     }
   },
   {
@@ -205,8 +205,8 @@
     "slug": "web-kartu-ujian",
     "status": "up",
     "uptime": "90.88%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.00%",
+    "uptimeDay": "5.34%",
+    "uptimeWeek": "0.76%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "84.30%",
     "time": 1640,
