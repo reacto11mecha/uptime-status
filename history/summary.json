@@ -6,9 +6,9 @@
     "slug": "bellshade-website",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "98.73%",
     "time": 1249,
     "timeDay": 1130,
@@ -16,7 +16,6 @@
     "timeMonth": 1264,
     "timeYear": 1256,
     "dailyMinutesDown": {
-      "2024-03-04": 7,
       "2024-03-02": 17,
       "2024-02-28": 35,
       "2024-02-26": 20,
@@ -98,7 +97,8 @@
       "2023-06-26": 26,
       "2023-06-22": 18,
       "2023-06-21": 24,
-      "2023-06-14": 17
+      "2023-06-14": 17,
+      "2023-06-13": 19
     }
   },
   {
@@ -209,7 +209,7 @@
     "uptime": "90.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "31.84%",
+    "uptimeMonth": "31.97%",
     "uptimeYear": "84.31%",
     "time": 1642,
     "timeDay": 1544,
