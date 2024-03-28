@@ -11,7 +11,7 @@
     "uptimeMonth": "99.07%",
     "uptimeYear": "98.73%",
     "time": 1269,
-    "timeDay": 750,
+    "timeDay": 794,
     "timeWeek": 1428,
     "timeMonth": 1412,
     "timeYear": 1287,
@@ -109,12 +109,12 @@
     "url": "https://api.bellshade.org",
     "icon": "https://icons.duckduckgo.com/ip3/api.bellshade.org.ico",
     "slug": "bellshade-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "94.30%",
-    "uptimeWeek": "98.83%",
+    "uptimeDay": "94.28%",
+    "uptimeWeek": "98.82%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "98.74%",
+    "uptimeYear": "98.75%",
     "time": 852,
     "timeDay": 916,
     "timeWeek": 835,
@@ -199,8 +199,7 @@
       "2023-09-02": 1440,
       "2023-09-01": 495,
       "2023-08-31": 21,
-      "2023-08-21": 26,
-      "2023-08-20": 18
+      "2023-08-21": 26
     }
   },
   {
