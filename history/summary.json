@@ -4,9 +4,9 @@
     "url": "https://bellshade.org",
     "icon": "https://icons.duckduckgo.com/ip3/bellshade.org.ico",
     "slug": "bellshade-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "98.70%",
+    "uptimeDay": "98.69%",
     "uptimeWeek": "98.64%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "98.73%",
@@ -103,7 +103,7 @@
       "2023-07-06": 31,
       "2023-07-05": 17,
       "2023-07-03": 15,
-      "2023-07-02": 76
+      "2023-07-02": 50
     }
   },
   {
