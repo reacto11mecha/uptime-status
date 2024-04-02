@@ -2,10 +2,6 @@ owner: reacto11mecha
 repo: uptime-status
 
 sites:
-  - name: Bellshade Website
-    url: https://bellshade.org
-  - name: Bellshade API
-    url: https://api.bellshade.org
   - name: Web Kartu Ujian
     url: https://kartuujian.sman12-bekasi.sch.id/
   - name: Sekilas 13
