@@ -6,9 +6,9 @@
     "slug": "web-kartu-ujian",
     "status": "up",
     "uptime": "92.00%",
-    "uptimeDay": "81.63%",
-    "uptimeWeek": "95.08%",
-    "uptimeMonth": "97.66%",
+    "uptimeDay": "84.93%",
+    "uptimeWeek": "95.21%",
+    "uptimeMonth": "97.68%",
     "uptimeYear": "83.75%",
     "time": 2056,
     "timeDay": 5581,
@@ -16,7 +16,7 @@
     "timeMonth": 2761,
     "timeYear": 2137,
     "dailyMinutesDown": {
-      "2024-06-23": 259,
+      "2024-06-23": 247,
       "2024-06-22": 236,
       "2024-06-15": 33,
       "2024-06-14": 18,
@@ -147,9 +147,7 @@
     "timeWeek": 243,
     "timeMonth": 239,
     "timeYear": 427,
-    "dailyMinutesDown": {
-      "2023-06-25": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Web Jadwal Pelajaran",
