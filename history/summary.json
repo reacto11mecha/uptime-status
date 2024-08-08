@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/kartuujian.sman12-bekasi.sch.id.ico",
     "slug": "web-kartu-ujian",
     "status": "up",
-    "uptime": "92.44%",
+    "uptime": "92.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.28%",
+    "uptimeYear": "84.55%",
     "time": 2028,
-    "timeDay": 1306,
-    "timeWeek": 1364,
+    "timeDay": 1322,
+    "timeWeek": 1356,
     "timeMonth": 1380,
     "timeYear": 2118,
     "dailyMinutesDown": {
@@ -103,8 +103,7 @@
       "2023-08-13": 1138,
       "2023-08-12": 1440,
       "2023-08-11": 1440,
-      "2023-08-10": 1440,
-      "2023-08-09": 1440
+      "2023-08-10": 1440
     }
   },
   {
@@ -119,10 +118,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 56,
-    "timeWeek": 69,
-    "timeMonth": 89,
-    "timeYear": 120,
+    "timeDay": 68,
+    "timeWeek": 71,
+    "timeMonth": 90,
+    "timeYear": 119,
     "dailyMinutesDown": {}
   },
   {
@@ -137,9 +136,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 419,
-    "timeDay": 383,
-    "timeWeek": 218,
-    "timeMonth": 239,
+    "timeDay": 447,
+    "timeWeek": 267,
+    "timeMonth": 248,
     "timeYear": 379,
     "dailyMinutesDown": {}
   },
@@ -155,10 +154,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 383,
-    "timeDay": 307,
-    "timeWeek": 674,
-    "timeMonth": 333,
-    "timeYear": 365,
+    "timeDay": 214,
+    "timeWeek": 210,
+    "timeMonth": 334,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -172,11 +171,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1007,
-    "timeDay": 713,
-    "timeWeek": 453,
-    "timeMonth": 513,
-    "timeYear": 889,
+    "time": 1006,
+    "timeDay": 464,
+    "timeWeek": 477,
+    "timeMonth": 511,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2023-08-10": 17
     }
