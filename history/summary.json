@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kartuujian.sman12-bekasi.sch.id.ico",
     "slug": "web-kartu-ujian",
     "status": "up",
-    "uptime": "92.45%",
+    "uptime": "92.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.55%",
-    "time": 2028,
-    "timeDay": 1322,
-    "timeWeek": 1356,
-    "timeMonth": 1380,
-    "timeYear": 2118,
+    "uptimeYear": "84.83%",
+    "time": 2030,
+    "timeDay": 2642,
+    "timeWeek": 1504,
+    "timeMonth": 1417,
+    "timeYear": 2121,
     "dailyMinutesDown": {
       "2024-06-25": 15,
       "2024-06-23": 247,
@@ -102,8 +102,7 @@
       "2023-08-20": 614,
       "2023-08-13": 1138,
       "2023-08-12": 1440,
-      "2023-08-11": 1440,
-      "2023-08-10": 1440
+      "2023-08-11": 1440
     }
   },
   {
@@ -118,8 +117,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 68,
-    "timeWeek": 71,
+    "timeDay": 211,
+    "timeWeek": 90,
     "timeMonth": 90,
     "timeYear": 119,
     "dailyMinutesDown": {}
@@ -136,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 419,
-    "timeDay": 447,
-    "timeWeek": 267,
-    "timeMonth": 248,
+    "timeDay": 541,
+    "timeWeek": 330,
+    "timeMonth": 259,
     "timeYear": 379,
     "dailyMinutesDown": {}
   },
@@ -153,10 +152,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 383,
-    "timeDay": 214,
-    "timeWeek": 210,
-    "timeMonth": 334,
+    "time": 382,
+    "timeDay": 218,
+    "timeWeek": 230,
+    "timeMonth": 335,
     "timeYear": 364,
     "dailyMinutesDown": {}
   },
@@ -171,13 +170,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1006,
-    "timeDay": 464,
-    "timeWeek": 477,
-    "timeMonth": 511,
-    "timeYear": 885,
-    "dailyMinutesDown": {
-      "2023-08-10": 17
-    }
+    "time": 1005,
+    "timeDay": 774,
+    "timeWeek": 544,
+    "timeMonth": 517,
+    "timeYear": 884,
+    "dailyMinutesDown": {}
   }
 ]
