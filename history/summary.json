@@ -4,7 +4,7 @@
     "url": "https://kartuujian.sman12-bekasi.sch.id/",
     "icon": "https://icons.duckduckgo.com/ip3/kartuujian.sman12-bekasi.sch.id.ico",
     "slug": "web-kartu-ujian",
-    "status": "up",
+    "status": "down",
     "uptime": "92.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1740,
     "timeYear": 2141,
     "dailyMinutesDown": {
+      "2024-08-15": 0,
       "2024-06-25": 15,
       "2024-06-23": 247,
       "2024-06-22": 236,
