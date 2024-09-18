@@ -2,6 +2,8 @@ owner: reacto11mecha
 repo: uptime-status
 
 sites:
+  - name: Siakad UNJ
+    url: https://siakad.unj.ac.id/
   - name: Sekilas 13
     url: https://sekilas13.vercel.app
   - name: WUNO Bot Documentation Site
