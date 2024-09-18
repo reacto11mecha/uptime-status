@@ -4,18 +4,20 @@
     "url": "https://siakad.unj.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/siakad.unj.ac.id.ico",
     "slug": "siakad-unj",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 1089,
     "timeDay": 1089,
     "timeWeek": 1089,
     "timeMonth": 1089,
     "timeYear": 1089,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-18": 0
+    }
   },
   {
     "name": "Sekilas 13",
