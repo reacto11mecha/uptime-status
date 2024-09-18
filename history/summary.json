@@ -1,5 +1,23 @@
 [
   {
+    "name": "Siakad UNJ",
+    "url": "https://siakad.unj.ac.id/",
+    "icon": "https://icons.duckduckgo.com/ip3/siakad.unj.ac.id.ico",
+    "slug": "siakad-unj",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1089,
+    "timeDay": 1089,
+    "timeWeek": 1089,
+    "timeMonth": 1089,
+    "timeYear": 1089,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Sekilas 13",
     "url": "https://sekilas13.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/sekilas13.vercel.app.ico",
@@ -11,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
-    "timeDay": 84,
-    "timeWeek": 116,
-    "timeMonth": 123,
+    "timeDay": 72,
+    "timeWeek": 108,
+    "timeMonth": 121,
     "timeYear": 119,
     "dailyMinutesDown": {}
   },
@@ -29,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 401,
-    "timeDay": 231,
-    "timeWeek": 282,
+    "timeDay": 234,
+    "timeWeek": 277,
     "timeMonth": 242,
-    "timeYear": 351,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 368,
-    "timeDay": 237,
-    "timeWeek": 231,
-    "timeMonth": 235,
+    "timeDay": 251,
+    "timeWeek": 236,
+    "timeMonth": 237,
     "timeYear": 315,
     "dailyMinutesDown": {}
   },
@@ -64,10 +82,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 946,
-    "timeDay": 588,
-    "timeWeek": 467,
-    "timeMonth": 506,
+    "time": 944,
+    "timeDay": 626,
+    "timeWeek": 493,
+    "timeMonth": 512,
     "timeYear": 789,
     "dailyMinutesDown": {}
   }
