@@ -4,19 +4,19 @@
     "url": "https://siakad.unj.ac.id/",
     "icon": "https://icons.duckduckgo.com/ip3/siakad.unj.ac.id.ico",
     "slug": "siakad-unj",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1140,
-    "timeDay": 1185,
-    "timeWeek": 1140,
-    "timeMonth": 1140,
-    "timeYear": 1140,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 1135,
+    "timeDay": 1155,
+    "timeWeek": 1135,
+    "timeMonth": 1135,
+    "timeYear": 1135,
     "dailyMinutesDown": {
-      "2024-09-20": 0
+      "2024-09-20": 19
     }
   },
   {
