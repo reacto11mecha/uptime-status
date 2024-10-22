@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/siakad.unj.ac.id.ico",
     "slug": "siakad-unj",
     "status": "down",
-    "uptime": "66.94%",
+    "uptime": "66.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.15%",
-    "uptimeMonth": "63.64%",
-    "uptimeYear": "66.94%",
+    "uptimeMonth": "63.15%",
+    "uptimeYear": "66.64%",
     "time": 1103,
     "timeDay": 0,
     "timeWeek": 1039,
     "timeMonth": 1104,
     "timeYear": 1103,
     "dailyMinutesDown": {
-      "2024-10-22": 35,
+      "2024-10-22": 251,
       "2024-10-21": 1440,
       "2024-10-20": 1434,
       "2024-10-19": 1440,
@@ -48,10 +48,10 @@
     "url": "https://sekilas13.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/sekilas13.vercel.app.ico",
     "slug": "sekilas-13",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
@@ -59,7 +59,9 @@
     "timeWeek": 98,
     "timeMonth": 116,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "WUNO Bot Documentation Site",
@@ -84,10 +86,10 @@
     "url": "https://jadwal.rmecha.my.id/",
     "icon": "https://icons.duckduckgo.com/ip3/jadwal.rmecha.my.id.ico",
     "slug": "web-jadwal-pelajaran",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 354,
@@ -95,24 +97,28 @@
     "timeWeek": 205,
     "timeMonth": 220,
     "timeYear": 301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "My Personal Site",
     "url": "https://rmecha.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/rmecha.my.id.ico",
     "slug": "my-personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 887,
+    "time": 886,
     "timeDay": 500,
     "timeWeek": 404,
     "timeMonth": 471,
     "timeYear": 711,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   }
 ]
