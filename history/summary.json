@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/siakad.unj.ac.id.ico",
     "slug": "siakad-unj",
     "status": "down",
-    "uptime": "29.13%",
+    "uptime": "28.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "29.13%",
+    "uptimeYear": "28.76%",
     "time": 1103,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1103,
     "dailyMinutesDown": {
-      "2024-12-05": 38,
+      "2024-12-06": 38,
+      "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
@@ -99,10 +100,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 49,
-    "timeWeek": 342,
-    "timeMonth": 175,
-    "timeYear": 125,
+    "timeDay": 95,
+    "timeWeek": 315,
+    "timeMonth": 176,
+    "timeYear": 124,
     "dailyMinutesDown": {
       "2024-10-22": 22
     }
@@ -118,11 +119,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 170,
-    "timeWeek": 237,
-    "timeMonth": 245,
-    "timeYear": 308,
+    "time": 356,
+    "timeDay": 185,
+    "timeWeek": 252,
+    "timeMonth": 248,
+    "timeYear": 307,
     "dailyMinutesDown": {}
   },
   {
@@ -136,11 +137,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 78,
-    "timeWeek": 165,
-    "timeMonth": 312,
-    "timeYear": 295,
+    "time": 337,
+    "timeDay": 223,
+    "timeWeek": 185,
+    "timeMonth": 311,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2024-10-22": 21
     }
@@ -156,11 +157,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 381,
-    "timeWeek": 482,
-    "timeMonth": 450,
-    "timeYear": 637,
+    "time": 796,
+    "timeDay": 252,
+    "timeWeek": 452,
+    "timeMonth": 448,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2024-10-22": 21
     }
