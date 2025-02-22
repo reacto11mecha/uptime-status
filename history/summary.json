@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/siakad.unj.ac.id.ico",
     "slug": "siakad-unj",
     "status": "down",
-    "uptime": "14.47%",
+    "uptime": "14.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "14.47%",
+    "uptimeYear": "14.39%",
     "time": 1103,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1103,
     "dailyMinutesDown": {
-      "2025-02-22": 34,
+      "2025-02-22": 1287,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -229,9 +229,9 @@
     "url": "https://rmecha.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/rmecha.my.id.ico",
     "slug": "my-personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -241,6 +241,7 @@
     "timeMonth": 542,
     "timeYear": 592,
     "dailyMinutesDown": {
+      "2025-02-22": 0,
       "2024-10-22": 21
     }
   }
