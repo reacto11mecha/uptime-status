@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1103,
     "dailyMinutesDown": {
-      "2025-02-22": 1287,
+      "2025-02-22": 1294,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -229,19 +229,19 @@
     "url": "https://rmecha.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/rmecha.my.id.ico",
     "slug": "my-personal-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 662,
-    "timeDay": 731,
-    "timeWeek": 558,
-    "timeMonth": 542,
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 661,
+    "timeDay": 509,
+    "timeWeek": 524,
+    "timeMonth": 534,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2025-02-22": 0,
+      "2025-02-22": 7,
       "2024-10-22": 21
     }
   }
