@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/siakad.unj.ac.id.ico",
     "slug": "siakad-unj",
     "status": "down",
-    "uptime": "11.47%",
+    "uptime": "11.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "11.47%",
+    "uptimeYear": "11.41%",
     "time": 1103,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1103,
     "dailyMinutesDown": {
-      "2025-04-04": 37,
+      "2025-04-05": 37,
+      "2025-04-04": 1440,
       "2025-04-03": 1440,
       "2025-04-02": 1440,
       "2025-04-01": 1440,
@@ -219,10 +220,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 124,
-    "timeWeek": 161,
-    "timeMonth": 145,
-    "timeYear": 124,
+    "timeDay": 283,
+    "timeWeek": 185,
+    "timeMonth": 152,
+    "timeYear": 125,
     "dailyMinutesDown": {
       "2024-10-22": 22
     }
@@ -239,9 +240,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 304,
-    "timeDay": 233,
+    "timeDay": 215,
     "timeWeek": 253,
-    "timeMonth": 281,
+    "timeMonth": 285,
     "timeYear": 289,
     "dailyMinutesDown": {}
   },
@@ -257,10 +258,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 287,
-    "timeDay": 376,
-    "timeWeek": 266,
+    "timeDay": 202,
+    "timeWeek": 246,
     "timeMonth": 278,
-    "timeYear": 265,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2024-10-22": 21
     }
@@ -276,10 +277,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 609,
-    "timeDay": 473,
-    "timeWeek": 457,
-    "timeMonth": 532,
+    "time": 610,
+    "timeDay": 598,
+    "timeWeek": 496,
+    "timeMonth": 541,
     "timeYear": 548,
     "dailyMinutesDown": {
       "2024-10-22": 21
