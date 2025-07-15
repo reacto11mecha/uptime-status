@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/siakad.unj.ac.id.ico",
     "slug": "siakad-unj",
     "status": "down",
-    "uptime": "7.57%",
+    "uptime": "7.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "7.57%",
+    "uptimeYear": "7.55%",
     "time": 1103,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1103,
     "dailyMinutesDown": {
-      "2025-07-15": 45,
+      "2025-07-15": 1311,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
@@ -314,9 +314,9 @@
     "url": "https://sekilas13.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/sekilas13.vercel.app.ico",
     "slug": "sekilas-13",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -326,6 +326,7 @@
     "timeMonth": 130,
     "timeYear": 136,
     "dailyMinutesDown": {
+      "2025-07-15": 0,
       "2024-10-22": 22
     }
   },
@@ -352,9 +353,9 @@
     "url": "https://jadwal.rmecha.my.id/",
     "icon": "https://icons.duckduckgo.com/ip3/jadwal.rmecha.my.id.ico",
     "slug": "web-jadwal-pelajaran",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -364,6 +365,7 @@
     "timeMonth": 273,
     "timeYear": 286,
     "dailyMinutesDown": {
+      "2025-07-15": 0,
       "2024-10-22": 21
     }
   },
@@ -372,9 +374,9 @@
     "url": "https://rmecha.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/rmecha.my.id.ico",
     "slug": "my-personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -384,6 +386,7 @@
     "timeMonth": 587,
     "timeYear": 553,
     "dailyMinutesDown": {
+      "2025-07-15": 0,
       "2024-10-22": 21
     }
   }
