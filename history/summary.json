@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/siakad.unj.ac.id.ico",
     "slug": "siakad-unj",
     "status": "down",
-    "uptime": "7.32%",
+    "uptime": "7.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "7.32%",
+    "uptimeYear": "7.31%",
     "time": 1103,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1103,
     "dailyMinutesDown": {
-      "2025-07-25": 44,
+      "2025-07-25": 1044,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
@@ -324,9 +324,9 @@
     "url": "https://sekilas13.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/sekilas13.vercel.app.ico",
     "slug": "sekilas-13",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -336,6 +336,7 @@
     "timeMonth": 146,
     "timeYear": 137,
     "dailyMinutesDown": {
+      "2025-07-25": 0,
       "2025-07-19": 19,
       "2024-10-22": 22
     }
@@ -363,9 +364,9 @@
     "url": "https://jadwal.rmecha.my.id/",
     "icon": "https://icons.duckduckgo.com/ip3/jadwal.rmecha.my.id.ico",
     "slug": "web-jadwal-pelajaran",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -375,6 +376,7 @@
     "timeMonth": 259,
     "timeYear": 288,
     "dailyMinutesDown": {
+      "2025-07-25": 0,
       "2025-07-19": 19,
       "2024-10-22": 21
     }
@@ -384,9 +386,9 @@
     "url": "https://rmecha.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/rmecha.my.id.ico",
     "slug": "my-personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -396,6 +398,7 @@
     "timeMonth": 578,
     "timeYear": 557,
     "dailyMinutesDown": {
+      "2025-07-25": 0,
       "2025-07-19": 19,
       "2024-10-22": 21
     }
