@@ -16,7 +16,7 @@
     "timeMonth": 900,
     "timeYear": 1098,
     "dailyMinutesDown": {
-      "2025-08-26": 641,
+      "2025-08-26": 903,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -356,9 +356,9 @@
     "url": "https://sekilas13.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/sekilas13.vercel.app.ico",
     "slug": "sekilas-13",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -368,6 +368,7 @@
     "timeMonth": 144,
     "timeYear": 141,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-07-25": 18,
       "2025-07-19": 19,
       "2024-10-22": 22
@@ -396,9 +397,9 @@
     "url": "https://jadwal.rmecha.my.id/",
     "icon": "https://icons.duckduckgo.com/ip3/jadwal.rmecha.my.id.ico",
     "slug": "web-jadwal-pelajaran",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -408,6 +409,7 @@
     "timeMonth": 288,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-07-25": 18,
       "2025-07-19": 19,
       "2024-10-22": 21
@@ -418,9 +420,9 @@
     "url": "https://rmecha.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/rmecha.my.id.ico",
     "slug": "my-personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -430,6 +432,7 @@
     "timeMonth": 607,
     "timeYear": 564,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-08-16": 26,
       "2025-07-25": 18,
       "2025-07-19": 19,
