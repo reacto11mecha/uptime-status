@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/siakad.unj.ac.id.ico",
     "slug": "siakad-unj",
     "status": "down",
-    "uptime": "5.94%",
+    "uptime": "5.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2025-10-29": 41,
+      "2025-10-30": 41,
+      "2025-10-29": 1440,
       "2025-10-28": 1440,
       "2025-10-27": 1440,
       "2025-10-26": 1440,
@@ -379,8 +380,7 @@
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
-      "2024-10-31": 1440,
-      "2024-10-30": 1440
+      "2024-10-31": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 151,
-    "timeDay": 61,
-    "timeWeek": 115,
-    "timeMonth": 283,
+    "timeDay": 112,
+    "timeWeek": 113,
+    "timeMonth": 274,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2025-10-20": 33,
@@ -420,11 +420,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 352,
-    "timeWeek": 307,
-    "timeMonth": 422,
-    "timeYear": 327,
+    "time": 308,
+    "timeDay": 331,
+    "timeWeek": 296,
+    "timeMonth": 426,
+    "timeYear": 328,
     "dailyMinutesDown": {}
   },
   {
@@ -438,10 +438,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 292,
-    "timeDay": 88,
-    "timeWeek": 285,
-    "timeMonth": 270,
+    "time": 291,
+    "timeDay": 196,
+    "timeWeek": 288,
+    "timeMonth": 264,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2025-09-30": 17,
@@ -463,10 +463,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 599,
-    "timeDay": 1145,
-    "timeWeek": 823,
-    "timeMonth": 756,
-    "timeYear": 635,
+    "timeDay": 639,
+    "timeWeek": 850,
+    "timeMonth": 755,
+    "timeYear": 636,
     "dailyMinutesDown": {
       "2025-09-30": 17,
       "2025-09-04": 27,
